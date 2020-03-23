@@ -3,4 +3,4 @@ dependencies:
 - matplotlib
 - pip
 - pip:
-   - opencv_python-3.4.1-cp37-cp37m-win_amd64.whl
+   - opencv-python
