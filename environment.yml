@@ -1,2 +1,4 @@
 dependencies:
-- octave_kernel
+- numpy
+- matplotlib
+- cv2
